@@ -20,8 +20,4 @@ Welcome to my GitHub profile! I'm Sathyan, a passionate web developer who loves 
 
 ## Top Languages
 
-<img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
-<img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-cascading-style-sheets-language-used-for-describing-the-presentation-of-a-document-logo-color-tal-revivo.png" alt="external-cascading-style-sheets-language-used-for-describing-the-presentation-of-a-document-logo-color-tal-revivo"/>
-<img width="50" height="50" src="https://img.icons8.com/color/50/javascript.png" alt="javascript"/>
-<img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/50/external-react-a-javascript-library-for-building-user-interfaces-logo-tritone-tal-revivo.png" alt="external-react-a-javascript-library-for-building-user-interfaces-logo-tritone-tal-revivo"/>
-<img width="50" height="50" src="https://img.icons8.com/color/50/sass.png" alt="sass"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/><img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-cascading-style-sheets-language-used-for-describing-the-presentation-of-a-document-logo-color-tal-revivo.png" alt="external-cascading-style-sheets-language-used-for-describing-the-presentation-of-a-document-logo-color-tal-revivo"/><img width="50" height="50" src="https://img.icons8.com/color/50/javascript.png" alt="javascript"/><img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/50/external-react-a-javascript-library-for-building-user-interfaces-logo-tritone-tal-revivo.png" alt="external-react-a-javascript-library-for-building-user-interfaces-logo-tritone-tal-revivo"/><img width="50" height="50" src="https://img.icons8.com/color/50/sass.png" alt="sass"/>
