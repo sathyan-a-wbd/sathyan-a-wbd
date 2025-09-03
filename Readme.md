@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm Sathyan, a passionate web developer who loves 
 
 ##### Bachelor of Computer Applications
 
-- 🔭 Here is my [portfolio]('https://sathyandevportfolio.netlify.app/')
+- 🔭 Here is my ![portfolio]('https://sathyandevportfolio.netlify.app/')
 - 🌱 I’m currently learning Full Stack
 - 👯 I’m looking to collaborate on Front-End
 - 🤔 I’m looking for help with Placements in Good company
